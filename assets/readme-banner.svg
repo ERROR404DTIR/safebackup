@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="ERROR404DT Python tools">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#89b4fa"/><stop offset="1" stop-color="#cba6f7"/></linearGradient></defs>
+<rect width="1200" height="260" rx="28" fill="#11111b"/>
+<circle cx="1030" cy="40" r="150" fill="#89b4fa" opacity=".08"><animate attributeName="r" values="130;165;130" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 210 Q300 140 600 210 T1200 190" fill="none" stroke="url(#g)" stroke-width="3" opacity=".7"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 210 Q300 140 600 210 T1200 190;M0 190 Q300 250 600 170 T1200 210;M0 210 Q300 140 600 210 T1200 190"/></path>
+<text x="70" y="112" fill="#cdd6f4" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">ERROR404DT / PYTHON UTILITIES</text>
+<text x="70" y="178" fill="url(#g)" font-family="Arial,sans-serif" font-size="54" font-weight="700">ZERO DEPENDENCIES</text>
+</svg>
